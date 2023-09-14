@@ -14,6 +14,12 @@
 * Bags of Words
 * Source of Patterns
 
+> Trying out a quote here, with some `code` inside of it too.
+
+```
+And perhaps a code block, for good measure?
+```
+
 ## Text as Structured and Semistructured Data
 ### [[L7: Text as Structured Data: Relational Databases]]
 * What is a Relational Database?
